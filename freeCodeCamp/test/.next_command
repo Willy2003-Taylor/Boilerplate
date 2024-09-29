@@ -138,3 +138,4 @@ mkdir client/src
 cd src
 cd ../..
 mv index.html client/src
+find
