@@ -57,3 +57,4 @@ more
 clear
 more LICENSE-MIT
 clear
+ls --color=auto
