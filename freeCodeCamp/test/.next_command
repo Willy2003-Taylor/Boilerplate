@@ -89,3 +89,4 @@ cd .
 clear
 cd website
 cd .
+touch background.jpg
