@@ -281,3 +281,4 @@ cd project
 cd website
 touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
+find client/assets/fonts
