@@ -65,3 +65,4 @@ ls --color=auto
 more src
 clear
 more index.js
+cd ..
