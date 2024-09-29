@@ -228,3 +228,20 @@ __vsc_prompt_cmd_original
 cd ..
 rmdir images
 ls --color=auto
+touch icons
+ls --color=auto
+rm icons
+mkdir icons
+ls --color=auto
+rmdir icons
+cd assets
+find -name assets
+cd client
+cd assets
+mkdir icons
+rm icons
+rmdir icons
+ls --color=auto
+cd ../../..
+cd website
+mkdir client/assets/icons
