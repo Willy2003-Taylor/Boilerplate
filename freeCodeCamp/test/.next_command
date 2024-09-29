@@ -135,3 +135,6 @@ mkdir client
 cd client
 mkdir src
 mkdir client/src
+cd src
+cd ../..
+mv index.html client/src
