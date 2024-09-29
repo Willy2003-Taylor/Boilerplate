@@ -324,3 +324,4 @@ find -name project
 ls --color=auto
 cd ..
 ls --color=auto
+mv website website-boilerplate
