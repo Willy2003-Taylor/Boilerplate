@@ -159,3 +159,14 @@ touch index.js
 ls --color=auto
 move index.js client/src
 mv index.js client/src
+mv styles.css src
+mv styles.css client/src
+cd client
+cd src
+ls --color=auto
+cd ../..
+ls --color=auto
+touch styles.css
+lsl
+ls --color=auto
+mv styles.css client/src
