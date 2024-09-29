@@ -62,3 +62,6 @@ __vsc_prompt_cmd_original
 cd src
 pwd
 ls --color=auto
+more src
+clear
+more index.js
