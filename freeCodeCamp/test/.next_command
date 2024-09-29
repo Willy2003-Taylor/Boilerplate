@@ -139,3 +139,23 @@ cd src
 cd ../..
 mv index.html client/src
 find
+cd src
+cd client
+cd src
+ls --color=auto
+mv index.js src
+cd ../..
+mv index.js src
+ls --color=auto
+touch index.js
+mv index.js src
+ls --color=auto
+find
+cd client
+ls --color=auto
+cd ..
+mv index.js client/src
+touch index.js
+ls --color=auto
+move index.js client/src
+mv index.js client/src
