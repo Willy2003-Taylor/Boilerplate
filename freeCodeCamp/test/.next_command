@@ -183,3 +183,16 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ../..
+cd ..
+mv background.jpg client/assets/images
+ls --color=auto
+touch background.jpg
+ls --color=auto
+mv background.jpg client/assets/images
+ls --color=auto
+cd client
+cd assets
+cd images
+ls --color=auto
+cd ../../..
