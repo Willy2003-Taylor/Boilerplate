@@ -331,3 +331,4 @@ help copy
 cp --help
 cp -r webiste-boilerplate toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
