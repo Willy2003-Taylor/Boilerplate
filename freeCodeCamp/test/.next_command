@@ -245,3 +245,4 @@ ls --color=auto
 cd ../../..
 cd website
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
