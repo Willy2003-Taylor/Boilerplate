@@ -227,3 +227,4 @@ rm background.jpg
 __vsc_prompt_cmd_original
 cd ..
 rmdir images
+ls --color=auto
