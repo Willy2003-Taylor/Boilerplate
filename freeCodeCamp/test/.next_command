@@ -258,3 +258,25 @@ ls --color=auto
 rmdir fonts
 cd ../..
 mkdir client/assets/fonts
+cd client/assets/fonts
+touch roboto-bold.woff
+rm roboto-bold.woff
+cd ../..
+cd ..
+touch roboto-bold.woff client/assets/fonts
+cd client/assets/fonts
+ls --color=auto
+cd ../..
+cd //
+cd website
+find -name website
+cd //
+cd /
+find
+clear
+cd project
+find -name project
+cd workspace
+cd project
+cd website
+touch client/assets/fonts/roboto-bold.woff
