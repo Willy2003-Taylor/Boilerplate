@@ -301,3 +301,5 @@ mkdir fonts
 find -name fonts
 --help
 rm --help
+-r fonts
+rm -r fonts
