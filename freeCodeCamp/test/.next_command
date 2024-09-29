@@ -77,3 +77,4 @@ ls --color=auto
 echo hello website
 touch index.html
 touch styles.css
+ls --color=auto
